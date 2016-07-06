@@ -1,2 +1,2 @@
-gogo check it now 
+I just wonder how to combine github and git.
 this is the first try of git 
